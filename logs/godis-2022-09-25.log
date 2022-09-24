@@ -1,0 +1,3 @@
+[INFO][server.go:41] 2022/09/25 03:07:46 start listen
+[INFO][server.go:66] 2022/09/25 03:09:24 accept link
+[INFO][echo.go:47] 2022/09/25 03:10:11 connection close

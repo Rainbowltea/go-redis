@@ -2,7 +2,7 @@ package reply
 
 import (
 	"bytes"
-	"go-redis/interface/tcp/resp"
+	"go-redis/interface/resp"
 	"strconv"
 )
 
